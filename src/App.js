@@ -1,10 +1,11 @@
 import React from 'react'
-import RoutesComponents from '../src/Config/RoutesComponents'
+
+
 
 const App = () => {
   return (
     <div>
-      <RoutesComponents/>
+          Muhammad Sholeh
     </div>
   )
 }
